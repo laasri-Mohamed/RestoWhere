@@ -13,6 +13,8 @@
     "apexcharts": "^3.36.3",
     "framer-motion": "^8.0.2",
     "leaflet": "^1.9.3",
+    "leaflet-control-geocoder": "^2.4.0",
+    "leaflet-routing-machine": "^3.2.12",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.0",
     "react-circular-progressbar": "^2.1.0",
