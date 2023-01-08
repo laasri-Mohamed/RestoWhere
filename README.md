@@ -25,13 +25,13 @@ ReactJS est un framework JavaScript open-source développé par Facebook qui a �
 Voici la conception UML de notre application
 *4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
 :------------:|:---------------:
-![Imgur](https://imgur.com/a/u5XGZDR.jpg)  |  ![Imgur](https://imgur.com/a/0zVY7IG.jpg) 
+![Imgur](https://imgur.com/u5XGZDR.jpg)  |  ![Imgur](https://imgur.com/0zVY7IG.jpg) 
 #### Architecture de l'application
 
 Voici l'architecture générale de notre application
 *5.1* Architecture générale
 :------------:
-![Imgur](https://imgur.com/a/NJLst3p.jpg) 
+![Imgur](https://imgur.com/NJLst3p.jpg) 
 # Mode d’emploi
 Pour démarrer cette partie front-end( à noter il faut démarrer la partie backend en premier , pour consommer les APIS backend avec Axios) , suivez les étapes suivantes :
 1.	Téléchargez le projet sur votre ordinateur
@@ -44,4 +44,4 @@ Pour démarrer cette partie front-end( à noter il faut démarrer la partie back
 # Aperçu
 Liste des restaurants  |  Acceuil
 :-------------:|:----------------:
-![Imgur](https://imgur.com/a/8eCUiq0.jpg)  | ![Imgur](https://imgur.com/a/H4TlvNV.jpg)
+![Imgur](https://imgur.com/8eCUiq0.jpg)  | ![Imgur](https://imgur.com/H4TlvNV.jpg)
