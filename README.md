@@ -18,20 +18,20 @@ ReactJS est un framework JavaScript open-source développé par Facebook qui a �
 
 5. Écosystème étendu: ReactJS a une grande communauté de développeurs et une grande bibliothèque de bibliothèques et de outils tiers qui peuvent être utilisés pour accélérer le développement et ajouter des fonctionnalités à votre application.
 
-6. Utilisation en entreprise: De nombreuses entreprises de grande envergure utilisent ReactJS pour développer leurs applications, ce qui en fait un choix de confiance pour les projets professionnels.
+6. Utilisation en entreprise : De nombreuses entreprises de grande envergure utilisent ReactJS pour développer leurs applications, ce qui en fait un choix de confiance pour les projets professionnels.
 
 #### Conception UML
 
 Voici la conception UML de notre application
 *4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
 :------------:|:---------------:
-![Imgur](https://imgur.com/a/u5XGZDR.png)  |  ![Imgur](https://imgur.com/a/0zVY7IG.png) 
+![Imgur](https://imgur.com/a/u5XGZDR.jpg)  |  ![Imgur](https://imgur.com/a/0zVY7IG.jpg) 
 #### Architecture de l'application
 
 Voici l'architecture générale de notre application
 *5.1* Architecture générale
 :------------:
-![Imgur](https://imgur.com/a/NJLst3p.png) 
+![Imgur](https://imgur.com/a/NJLst3p.jpg) 
 # Mode d’emploi
 Pour démarrer cette partie front-end( à noter il faut démarrer la partie backend en premier , pour consommer les APIS backend avec Axios) , suivez les étapes suivantes :
 1.	Téléchargez le projet sur votre ordinateur
@@ -44,4 +44,4 @@ Pour démarrer cette partie front-end( à noter il faut démarrer la partie back
 # Aperçu
 Liste des restaurants  |  Acceuil
 :-------------:|:----------------:
-![Imgur](https://imgur.com/a/8eCUiq0.png)  | ![Imgur](https://imgur.com/a/H4TlvNV.png)
+![Imgur](https://imgur.com/a/8eCUiq0.jpg)  | ![Imgur](https://imgur.com/a/H4TlvNV.jpg)
