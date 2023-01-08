@@ -31,7 +31,7 @@ Voici la conception UML de notre application
 Voici l'architecture générale de notre application
 *5.1* Architecture générale
 :------------:
-![Imgur](https://imgur.com/NJLst3p.jpg) 
+![Imgur](https://imgur.com/7qTCmgc.jpg) 
 # Mode d’emploi
 Pour démarrer cette partie front-end( à noter il faut démarrer la partie backend en premier , pour consommer les APIS backend avec Axios) , suivez les étapes suivantes :
 1.	Téléchargez le projet sur votre ordinateur
