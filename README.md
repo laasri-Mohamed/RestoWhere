@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Localisation des restaurants-partie Front-End(ReactJs)
+Cette partie du projet a pour but de mettre en place des interfaces érgonomiques et sofistiquées permettant d’afficher et localiser les restaurants dans une ville choisie avec les détails de chaque restaurant . pour cet objectif , on a utilisé Reactjs comme framework front-end pour mettre en place les interfaces interéssentes de notre application.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Partie Backend
 
-## Available Scripts
+Dépot : https://github.com/MedIDTNAIN/Restorant-Spring
 
-In the project directory, you can run:
+# Les avantages derrière le choix du ReactJs exactement
+ReactJS est un framework JavaScript open-source développé par Facebook qui a été conçu pour faciliter la création d'interfaces utilisateur côté client. Il est particulièrement populaire pour le développement de single page applications (SPAs) et peut également être utilisé pour développer des applications mobiles natives grâce à son utilisation de React Native.
 
-### `npm start`
+1. Voici quelques-uns des avantages du choix de ReactJS:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Facilité d'apprentissage: ReactJS utilise une syntaxe simple et intuitive qui est facile à apprendre pour les développeurs qui connaissent déjà JavaScript.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Composants réutilisables: ReactJS permet de créer des composants de l'interface utilisateur qui peuvent être réutilisés dans différentes parties de l'application, ce qui peut rendre le développement plus efficace et maintenable.
 
-### `npm test`
+4. Performance: ReactJS utilise une technique appelée "Virtual DOM" qui permet de mettre à jour de manière efficace l'interface utilisateur lorsque les données changent, ce qui peut améliorer les performances de l'application.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Écosystème étendu: ReactJS a une grande communauté de développeurs et une grande bibliothèque de bibliothèques et de outils tiers qui peuvent être utilisés pour accélérer le développement et ajouter des fonctionnalités à votre application.
 
-### `npm run build`
+6. Utilisation en entreprise: De nombreuses entreprises de grande envergure utilisent ReactJS pour développer leurs applications, ce qui en fait un choix de confiance pour les projets professionnels.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Conception UML
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Voici la conception UML de notre application
+*4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
+:------------:|:---------------:
+![Imgur](https://imgur.com/a/u5XGZDR)  |  ![Imgur](https://imgur.com/a/0zVY7IG) 
+#### Architecture de l'application
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Voici l'architecture générale de notre application
+*5.1* Architecture générale
+:------------:
+![Imgur](https://imgur.com/a/NJLst3p) 
+# Mode d’emploi
+Pour démarrer cette partie front-end( à noter il faut démarrer la partie backend en premier , pour consommer les APIS backend avec Axios) , suivez les étapes suivantes :
+1.	Téléchargez le projet sur votre ordinateur
+2.	Ouvrez-le dans votre éditeur de code (VScode par exemple)
+3.	Tapez sur le terminal les commandes de lignes suivantes : npm start 
+4.	Voir la liste des restaurants
+6.	Puis cliquer sur postion qui concerne le restaurant choisi
+8.	Puis consulter son localisation exacte.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Aperçu
+Acceuil  et  Liste des restaurants
+:-------------:|:----------------:
+![Imgur](https://imgur.com/a/8eCUiq0)  | ![Imgur](https://imgur.com/a/H4TlvNV)

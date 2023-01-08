@@ -33,7 +33,7 @@ const Sidebar = () => {
       <div className="logo">
         <img src={Logo} alt="logo" />
         <span>
-          Sh<span>o</span>ps
+          REST<span>O</span>WHERE
         </span>
       </div>
 
