@@ -42,6 +42,6 @@ Pour démarrer cette partie front-end( à noter il faut démarrer la partie back
 8.	Puis consulter son localisation exacte.
 
 # Aperçu
-Acceuil  et  Liste des restaurants
+Liste des restaurants  |  Acceuil
 :-------------:|:----------------:
 ![Imgur](https://imgur.com/a/8eCUiq0)  | ![Imgur](https://imgur.com/a/H4TlvNV)
