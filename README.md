@@ -3,7 +3,7 @@ Cette partie du projet a pour but de mettre en place des interfaces érgonomique
 
 #### Partie Backend
 
-Dépot : https://github.com/MedIDTNAIN/Restorant-Spring
+Dépot : https://github.com/laasri-Mohamed/Restorant_Spring
 
 # Les avantages derrière le choix du ReactJs exactement
 ReactJS est un framework JavaScript open-source développé par Facebook qui a été conçu pour faciliter la création d'interfaces utilisateur côté client. Il est particulièrement populaire pour le développement de single page applications (SPAs) et peut également être utilisé pour développer des applications mobiles natives grâce à son utilisation de React Native.
